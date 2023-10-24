@@ -7,7 +7,7 @@
  }* 
 
  main {
-    background: url('./assets/imagens/background-completo.png');
+    background-color: rgba(128, 128, 128, 0.371);
     background-size: cover;
     min-height: 60vh;
   }
